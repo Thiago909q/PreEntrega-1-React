@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.ItemList{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    font-size: 1.1rem;
+
+}
